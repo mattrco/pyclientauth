@@ -1,3 +1,6 @@
+# Copyright 2012 Matt Cottingham
+# Licensed under the Apache License, Version 2.0
+
 import unittest2 as unittest
 import requests
 from mock import patch

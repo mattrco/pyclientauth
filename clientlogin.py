@@ -1,3 +1,6 @@
+# Copyright 2012 Matt Cottingham
+# Licensed under the Apache License, Version 2.0
+
 import requests
 import re
 from requests.exceptions import RequestException
